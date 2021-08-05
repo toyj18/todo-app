@@ -1,21 +1,39 @@
 {
+  "emails": [
+    {
+      "email": "joshua.taiwo@dipolediamond.com",
+      "day": "2021-07-31",
+      "id": 1
+    }
+  ],
   "tasks": [
     {
-      "id": 2,
-      "text": "Meeting is the office",
-      "day": "March 3rd at 1:30pm",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Food Shopping",
-      "day": "March 1st at 11:00pm",
-      "reminder": false
-    },
-    {
-      "text": "Joshua Birthday",
-      "day": "22-03-2022",
       "reminder": true,
+      "completed": true,
+      "archive": false,
+      "id": 1,
+      "josh": "Water House"
+    },
+    {
+      "reminder": false,
+      "completed": false,
+      "archive": false,
+      "id": 2
+    },
+    {
+      "text": "Vue assignment",
+      "day": "3453",
+      "reminder": false,
+      "completed": false,
+      "archive": false,
+      "id": 3
+    },
+    {
+      "text": "working on edit",
+      "day": "2021-08-03T14:26",
+      "reminder": true,
+      "completed": false,
+      "archive": false,
       "id": 4
     }
   ]
